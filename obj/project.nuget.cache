@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C0kXRrTvmMijaU5akfL0RZOVvuKijf24pFLzxFcRis4b3TfBfjBqBMIo7H46dZvtl7KvsiKeDuPfbqNk3jyL+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\SunAPI\\SunAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

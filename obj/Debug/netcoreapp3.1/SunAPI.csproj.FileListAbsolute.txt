@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\SunAPI\bin\Debug\netcoreapp3.1\SunAPI.exe
+C:\Users\opilane\source\repos\SunAPI\obj\Debug\netcoreapp3.1\SunAPI.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SunAPI\obj\Debug\netcoreapp3.1\SunAPI.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SunAPI\obj\Debug\netcoreapp3.1\SunAPI.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SunAPI\bin\Debug\netcoreapp3.1\SunAPI.deps.json
+C:\Users\opilane\source\repos\SunAPI\bin\Debug\netcoreapp3.1\SunAPI.runtimeconfig.json
+C:\Users\opilane\source\repos\SunAPI\bin\Debug\netcoreapp3.1\SunAPI.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\SunAPI\bin\Debug\netcoreapp3.1\SunAPI.dll
+C:\Users\opilane\source\repos\SunAPI\bin\Debug\netcoreapp3.1\SunAPI.pdb
+C:\Users\opilane\source\repos\SunAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\SunAPI\obj\Debug\netcoreapp3.1\SunAPI.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SunAPI\obj\Debug\netcoreapp3.1\SunAPI.csproj.CopyComplete
+C:\Users\opilane\source\repos\SunAPI\obj\Debug\netcoreapp3.1\SunAPI.dll
+C:\Users\opilane\source\repos\SunAPI\obj\Debug\netcoreapp3.1\SunAPI.pdb
+C:\Users\opilane\source\repos\SunAPI\obj\Debug\netcoreapp3.1\SunAPI.genruntimeconfig.cache
